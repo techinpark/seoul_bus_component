@@ -29,3 +29,6 @@
       hide: 
         - 7211
 ``` 
+
+# License 
+This project is under the MIT License.
