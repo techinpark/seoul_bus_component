@@ -24,7 +24,7 @@
   stations:
     - station_code: 12426
       name: 진관중고교
-      show: 
+      display: 
         - 708
       hide: 
         - 7211
