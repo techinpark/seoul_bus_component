@@ -22,7 +22,7 @@
   service_key: [YOUR DATA API KEY HERE]
   interval: 180
   stations:
-    - station_code: 12426
+    - station_code: 111000151
       name: 진관중고교
       display: 
         - 708
